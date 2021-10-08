@@ -1,1 +1,1 @@
-# weaklySupervisedSegmentation
+# Weakly Supervised Pet Segmentation
